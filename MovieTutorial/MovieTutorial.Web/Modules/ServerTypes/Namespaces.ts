@@ -1,0 +1,12 @@
+﻿export const AdministrationNS: "MovieTutorial.Administration" = "MovieTutorial.Administration";
+export const nsAdministration: "MovieTutorial.Administration." = "MovieTutorial.Administration.";
+export const DefaultNS: "MovieTutorial.Default" = "MovieTutorial.Default";
+export const nsDefault: "MovieTutorial.Default." = "MovieTutorial.Default.";
+export const MembershipNS: "MovieTutorial.Membership" = "MovieTutorial.Membership";
+export const nsMembership: "MovieTutorial.Membership." = "MovieTutorial.Membership.";
+export const ModulesMovieDBMovieNS: "MovieTutorial.Modules.MovieDB.Movie" = "MovieTutorial.Modules.MovieDB.Movie";
+export const nsModulesMovieDBMovie: "MovieTutorial.Modules.MovieDB.Movie." = "MovieTutorial.Modules.MovieDB.Movie.";
+export const ModulesMovieDBPersonNS: "MovieTutorial.Modules.MovieDB.Person" = "MovieTutorial.Modules.MovieDB.Person";
+export const nsModulesMovieDBPerson: "MovieTutorial.Modules.MovieDB.Person." = "MovieTutorial.Modules.MovieDB.Person.";
+export const MovieDBNS: "MovieTutorial.MovieDB" = "MovieTutorial.MovieDB";
+export const nsMovieDB: "MovieTutorial.MovieDB." = "MovieTutorial.MovieDB.";
