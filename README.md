@@ -114,7 +114,7 @@ Password: serenity
 
 ## 📖 Learning Outcomes
 
-By working with this project, you will learn:
+By working with this project, I will learn:
 
 * Serenity entity and row mapping
 * Grid and dialog customization
@@ -122,17 +122,8 @@ By working with this project, you will learn:
 * Permission handling
 * TypeScript integration with backend services
 
----
 
-## 📌 Use Case
 
-This project is ideal for:
-
-* Beginners learning the Serenity Framework
-* ASP.NET Core developers exploring enterprise patterns
-* Interview preparation and portfolio projects
-
----
 
 ## 🤝 Contributing
 
@@ -145,7 +136,3 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 This project is for educational purposes and follows the Serenity framework licensing terms.
 
 ---
-
-## 👤 Author
-Debadutta Giri
-If you find this project helpful, please ⭐ the repository!
